@@ -1,6 +1,6 @@
 ```javascript
 // ==============================
-// MENSAGEM DE BOAS-VINDAS
+// MENSAGEM DE BOAS-VINDAS LEGAL
 // ==============================
 
 window.addEventListener("load", function () {
